@@ -1,0 +1,15 @@
+.cado-body{
+  background-color: deeppink;  
+}
+.btn-big{
+  padding: 20px 40px;
+  font-size: 1.4rem;
+  border-radius: 0.5rem;
+}
+.card-img-overlay{
+  background: rgba(0, 0, 0, 0.5);
+}
+
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
